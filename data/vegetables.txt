@@ -1,0 +1,9 @@
+carrot
+pepper
+tomato
+potato
+onion
+mushroom
+cucumber
+cauliflower
+broccoli
